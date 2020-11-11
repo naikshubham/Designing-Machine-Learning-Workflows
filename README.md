@@ -181,8 +181,9 @@ pipe = Pipeline([('ft', FunctionTransformer(negate_second_column)),
 
 - Using best scikit-learn practices when we build our workflows makes pushing to production simple and safe.
 
+#### ML Deployment
 
-
+<img src="images/ML_Deploy.jpg" width="350" title="ML Deployment">
 
 
 
